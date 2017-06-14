@@ -1,0 +1,4689 @@
+[
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 420.0,
+                "y": 270.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 429.0,
+                "y": 262.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 503.0,
+                "y": 275.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 578.0,
+                "y": 287.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 634.0,
+                "y": 266.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 703.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0001.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0002.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0003.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0004.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 426.0,
+                "y": 286.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 434.0,
+                "y": 274.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 499.0,
+                "y": 284.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 573.0,
+                "y": 287.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 628.0,
+                "y": 267.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0005.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0006.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0007.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0008.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0009.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 421.0,
+                "y": 303.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 441.0,
+                "y": 281.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 493.0,
+                "y": 291.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 565.0,
+                "y": 291.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 619.0,
+                "y": 269.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0010.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0011.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0012.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0013.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0014.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 423.0,
+                "y": 311.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 450.0,
+                "y": 279.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 493.0,
+                "y": 291.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 565.0,
+                "y": 290.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 619.0,
+                "y": 269.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0015.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0016.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0017.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0018.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0019.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 422.0,
+                "y": 317.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 450.0,
+                "y": 280.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 493.0,
+                "y": 291.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 566.0,
+                "y": 294.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 620.0,
+                "y": 269.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 236.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0020.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0021.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0022.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0023.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0024.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 420.0,
+                "y": 316.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 448.0,
+                "y": 286.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 495.0,
+                "y": 294.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 567.0,
+                "y": 296.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 620.0,
+                "y": 274.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 700.0,
+                "y": 241.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0025.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0026.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0027.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0028.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0029.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 421.0,
+                "y": 309.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 428.0,
+                "y": 299.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 495.0,
+                "y": 296.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 566.0,
+                "y": 301.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 624.0,
+                "y": 278.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 700.0,
+                "y": 249.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0030.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0031.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0032.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0033.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0034.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 417.0,
+                "y": 316.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 422.0,
+                "y": 303.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 498.0,
+                "y": 296.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 570.0,
+                "y": 305.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 623.0,
+                "y": 284.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 254.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0035.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0036.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0037.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0038.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0039.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 408.0,
+                "y": 316.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 411.0,
+                "y": 306.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 500.0,
+                "y": 298.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 569.0,
+                "y": 309.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 623.0,
+                "y": 284.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 254.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0040.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0041.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0042.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0043.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0044.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 389.0,
+                "y": 320.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 393.0,
+                "y": 308.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 496.0,
+                "y": 300.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 566.0,
+                "y": 317.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 619.0,
+                "y": 293.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0045.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0046.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0047.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0048.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0049.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 378.0,
+                "y": 329.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 381.0,
+                "y": 315.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 489.0,
+                "y": 304.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 559.0,
+                "y": 323.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 612.0,
+                "y": 299.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0050.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0051.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0052.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0053.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0054.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 371.0,
+                "y": 338.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 370.0,
+                "y": 327.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 482.0,
+                "y": 307.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 548.0,
+                "y": 329.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 601.0,
+                "y": 306.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0055.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0056.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0057.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0058.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0059.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 359.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 364.0,
+                "y": 331.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 472.0,
+                "y": 310.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 538.0,
+                "y": 332.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 592.0,
+                "y": 309.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0060.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0061.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0062.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0063.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0064.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 373.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 361.0,
+                "y": 331.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 467.0,
+                "y": 314.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 528.0,
+                "y": 335.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 584.0,
+                "y": 314.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0065.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0066.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0067.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0068.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0069.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 355.0,
+                "y": 375.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 355.0,
+                "y": 331.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 460.0,
+                "y": 316.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 527.0,
+                "y": 335.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 315.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 261.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0070.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0071.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0072.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0073.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0074.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 348.0,
+                "y": 359.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 346.0,
+                "y": 350.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 459.0,
+                "y": 314.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 523.0,
+                "y": 332.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 577.0,
+                "y": 310.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0075.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0076.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0077.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0078.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0079.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 347.0,
+                "y": 356.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 346.0,
+                "y": 348.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 461.0,
+                "y": 314.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 523.0,
+                "y": 332.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 577.0,
+                "y": 309.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0080.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0081.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0082.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0083.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0084.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 348.0,
+                "y": 348.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 461.0,
+                "y": 311.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 348.0,
+                "y": 336.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 526.0,
+                "y": 331.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 578.0,
+                "y": 309.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0085.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0086.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0087.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0088.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0089.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 348.0,
+                "y": 333.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 349.0,
+                "y": 323.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 463.0,
+                "y": 306.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 526.0,
+                "y": 329.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 306.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 257.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0090.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0091.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0092.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0093.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0094.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 349.0,
+                "y": 319.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 351.0,
+                "y": 305.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 463.0,
+                "y": 306.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 527.0,
+                "y": 324.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 302.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 256.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0095.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0096.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0097.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0098.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0099.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 352.0,
+                "y": 316.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 364.0,
+                "y": 292.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 463.0,
+                "y": 306.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 527.0,
+                "y": 325.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 302.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 256.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0100.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0101.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0102.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0103.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0104.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 353.0,
+                "y": 313.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 375.0,
+                "y": 282.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 463.0,
+                "y": 302.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 527.0,
+                "y": 325.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 302.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 256.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0105.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0106.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0107.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0108.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0109.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 302.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 392.0,
+                "y": 266.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 470.0,
+                "y": 293.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 535.0,
+                "y": 316.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 590.0,
+                "y": 296.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 250.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0110.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0111.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0112.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0113.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0114.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 290.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 393.0,
+                "y": 259.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 466.0,
+                "y": 286.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 537.0,
+                "y": 307.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 589.0,
+                "y": 283.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 238.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0115.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0116.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0117.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0118.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0119.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 367.0,
+                "y": 276.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 393.0,
+                "y": 254.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 465.0,
+                "y": 279.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 533.0,
+                "y": 298.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 587.0,
+                "y": 275.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0120.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0121.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0122.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0123.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0124.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 367.0,
+                "y": 277.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 396.0,
+                "y": 254.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 462.0,
+                "y": 277.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 534.0,
+                "y": 293.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 589.0,
+                "y": 275.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0125.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0126.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0127.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0128.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0129.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 369.0,
+                "y": 278.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 399.0,
+                "y": 254.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 462.0,
+                "y": 277.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 532.0,
+                "y": 292.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 589.0,
+                "y": 275.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0130.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0131.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0132.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0133.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0134.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 370.0,
+                "y": 277.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 399.0,
+                "y": 253.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 462.0,
+                "y": 277.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 532.0,
+                "y": 292.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 589.0,
+                "y": 275.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0135.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0136.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0137.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0138.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0139.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 369.0,
+                "y": 278.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 395.0,
+                "y": 257.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 460.0,
+                "y": 280.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 526.0,
+                "y": 294.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 586.0,
+                "y": 278.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0140.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0141.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0142.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0143.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0144.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 363.0,
+                "y": 284.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 369.0,
+                "y": 272.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 454.0,
+                "y": 285.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 519.0,
+                "y": 302.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 580.0,
+                "y": 282.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 227.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0145.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0146.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0147.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0148.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0149.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 344.0,
+                "y": 304.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 352.0,
+                "y": 285.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 446.0,
+                "y": 290.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 511.0,
+                "y": 304.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 569.0,
+                "y": 287.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 229.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0150.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0151.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0152.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0153.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0154.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 328.0,
+                "y": 321.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 337.0,
+                "y": 297.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 436.0,
+                "y": 293.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 499.0,
+                "y": 311.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 557.0,
+                "y": 293.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 229.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0155.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0156.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0157.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0158.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0159.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 318.0,
+                "y": 326.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 324.0,
+                "y": 312.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 426.0,
+                "y": 297.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 490.0,
+                "y": 313.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 548.0,
+                "y": 295.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 229.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0160.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0161.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0162.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0163.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0164.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 318.0,
+                "y": 328.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 320.0,
+                "y": 316.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 428.0,
+                "y": 295.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 490.0,
+                "y": 313.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 548.0,
+                "y": 293.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 229.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0165.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0166.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0167.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0168.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0169.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 315.0,
+                "y": 324.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 319.0,
+                "y": 312.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 427.0,
+                "y": 294.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 489.0,
+                "y": 306.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 545.0,
+                "y": 291.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 223.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0170.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0171.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0172.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0173.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0174.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 308.0,
+                "y": 311.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 311.0,
+                "y": 298.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 422.0,
+                "y": 281.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 484.0,
+                "y": 296.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 543.0,
+                "y": 281.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 211.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0175.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0176.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0177.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0178.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0179.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 313.0,
+                "y": 303.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 315.0,
+                "y": 291.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 426.0,
+                "y": 273.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 489.0,
+                "y": 288.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 548.0,
+                "y": 270.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0180.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0181.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0182.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0183.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0184.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 328.0,
+                "y": 294.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 331.0,
+                "y": 281.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 446.0,
+                "y": 264.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 512.0,
+                "y": 279.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 572.0,
+                "y": 259.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0185.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0186.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0187.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0188.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0189.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 354.0,
+                "y": 275.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 355.0,
+                "y": 263.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 476.0,
+                "y": 245.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 545.0,
+                "y": 259.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 606.0,
+                "y": 244.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0190.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0191.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0192.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0193.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0194.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 394.0,
+                "y": 256.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 396.0,
+                "y": 242.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 521.0,
+                "y": 227.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 591.0,
+                "y": 241.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 659.0,
+                "y": 224.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 698.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0195.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0196.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0197.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0198.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0199.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 432.0,
+                "y": 244.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 432.0,
+                "y": 229.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 559.0,
+                "y": 214.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 631.0,
+                "y": 229.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 700.0,
+                "y": 208.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 708.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0200.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0201.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0202.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0203.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0204.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 438.0,
+                "y": 244.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 441.0,
+                "y": 232.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 564.0,
+                "y": 217.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 638.0,
+                "y": 236.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 703.0,
+                "y": 209.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 707.0,
+                "y": 207.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0205.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0206.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0207.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0208.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0209.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 424.0,
+                "y": 249.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 425.0,
+                "y": 238.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 223.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 623.0,
+                "y": 241.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 687.0,
+                "y": 218.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 706.0,
+                "y": 210.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0210.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0211.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0212.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0213.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0214.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 416.0,
+                "y": 248.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 419.0,
+                "y": 238.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 541.0,
+                "y": 224.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 611.0,
+                "y": 243.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 675.0,
+                "y": 219.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 211.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0215.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0216.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0217.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0218.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0219.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 406.0,
+                "y": 245.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 406.0,
+                "y": 237.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 530.0,
+                "y": 222.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 600.0,
+                "y": 241.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 667.0,
+                "y": 218.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 699.0,
+                "y": 206.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0220.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0221.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0222.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0223.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0224.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 383.0,
+                "y": 239.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 385.0,
+                "y": 227.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 509.0,
+                "y": 215.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 578.0,
+                "y": 234.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 640.0,
+                "y": 208.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 190.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0225.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0226.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0227.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0228.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0229.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 363.0,
+                "y": 225.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 368.0,
+                "y": 213.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 490.0,
+                "y": 203.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 557.0,
+                "y": 219.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 623.0,
+                "y": 199.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 702.0,
+                "y": 165.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0230.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0231.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0232.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0233.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0234.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 206.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 482.0,
+                "y": 193.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 551.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 618.0,
+                "y": 187.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0235.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0236.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0237.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0238.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0239.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 205.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 481.0,
+                "y": 195.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 615.0,
+                "y": 187.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0240.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0241.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0242.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0243.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0244.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 205.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 195.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 615.0,
+                "y": 187.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0245.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0246.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0247.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0248.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0249.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 195.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0250.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0251.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0252.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0253.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0254.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0255.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0256.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0257.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0258.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0259.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0260.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0261.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0262.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0263.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0264.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0265.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0266.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0267.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0268.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0269.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0270.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0271.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0272.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0273.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0274.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0275.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0276.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0277.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0278.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0279.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0280.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0281.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0282.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0283.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0284.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0285.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0286.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0287.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0288.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0289.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 358.0,
+                "y": 219.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 192.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 213.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 191.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0290.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0291.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0292.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0293.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0294.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 356.0,
+                "y": 217.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 360.0,
+                "y": 207.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 480.0,
+                "y": 196.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 550.0,
+                "y": 214.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 616.0,
+                "y": 192.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0295.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0296.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0297.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0298.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0299.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 366.0,
+                "y": 213.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 371.0,
+                "y": 203.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 487.0,
+                "y": 193.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 560.0,
+                "y": 208.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 626.0,
+                "y": 189.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 155.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0300.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0301.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0302.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0303.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0304.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 382.0,
+                "y": 201.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 386.0,
+                "y": 192.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 501.0,
+                "y": 183.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 571.0,
+                "y": 199.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 633.0,
+                "y": 180.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 699.0,
+                "y": 151.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0305.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0306.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0307.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0308.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0309.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 399.0,
+                "y": 187.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 404.0,
+                "y": 177.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 515.0,
+                "y": 168.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 581.0,
+                "y": 185.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 641.0,
+                "y": 163.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 701.0,
+                "y": 139.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0310.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0311.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0312.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0313.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0314.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 418.0,
+                "y": 170.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 423.0,
+                "y": 159.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 528.0,
+                "y": 152.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 590.0,
+                "y": 166.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 650.0,
+                "y": 145.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 702.0,
+                "y": 125.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0315.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0316.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0317.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0318.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0319.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 435.0,
+                "y": 156.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 440.0,
+                "y": 144.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 542.0,
+                "y": 133.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 607.0,
+                "y": 145.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 664.0,
+                "y": 126.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 703.0,
+                "y": 109.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0320.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0321.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0322.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0323.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0324.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 452.0,
+                "y": 143.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 456.0,
+                "y": 133.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 556.0,
+                "y": 118.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 618.0,
+                "y": 133.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 676.0,
+                "y": 113.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 704.0,
+                "y": 99.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0325.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0326.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0327.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0328.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0329.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 461.0,
+                "y": 144.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 464.0,
+                "y": 134.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 561.0,
+                "y": 115.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 624.0,
+                "y": 123.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 680.0,
+                "y": 105.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 704.0,
+                "y": 94.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0330.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0331.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0332.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0333.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0334.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 458.0,
+                "y": 150.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 460.0,
+                "y": 140.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 561.0,
+                "y": 118.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 622.0,
+                "y": 125.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 679.0,
+                "y": 107.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 704.0,
+                "y": 94.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0335.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0336.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0337.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0338.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0339.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 456.0,
+                "y": 162.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 456.0,
+                "y": 153.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 559.0,
+                "y": 120.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 621.0,
+                "y": 130.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 677.0,
+                "y": 114.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 704.0,
+                "y": 94.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0340.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0341.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0342.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0343.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0344.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 447.0,
+                "y": 165.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 446.0,
+                "y": 155.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 554.0,
+                "y": 128.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 615.0,
+                "y": 143.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 670.0,
+                "y": 124.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 702.0,
+                "y": 111.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0345.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0346.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0347.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0348.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0349.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 436.0,
+                "y": 167.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 436.0,
+                "y": 156.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 545.0,
+                "y": 137.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 602.0,
+                "y": 154.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 656.0,
+                "y": 141.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 696.0,
+                "y": 126.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0350.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0351.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0352.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0353.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0354.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 432.0,
+                "y": 165.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 431.0,
+                "y": 153.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 543.0,
+                "y": 141.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 597.0,
+                "y": 162.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 652.0,
+                "y": 147.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 131.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0355.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0356.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0357.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0358.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0359.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 429.0,
+                "y": 176.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 424.0,
+                "y": 166.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 538.0,
+                "y": 144.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 592.0,
+                "y": 168.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 648.0,
+                "y": 149.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 131.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0360.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0361.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0362.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0363.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0364.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 416.0,
+                "y": 185.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 411.0,
+                "y": 175.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 525.0,
+                "y": 153.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 577.0,
+                "y": 176.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 631.0,
+                "y": 158.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 697.0,
+                "y": 131.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0365.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0366.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0367.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0368.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0369.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 416.0,
+                "y": 199.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 412.0,
+                "y": 191.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 522.0,
+                "y": 163.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 572.0,
+                "y": 187.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 626.0,
+                "y": 168.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 699.0,
+                "y": 141.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0370.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0371.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0372.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0373.png"
+    },
+    {
+        "annotations": [],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0374.png"
+    },
+    {
+        "annotations": [
+            {
+                "class": "LeftClasperPoint",
+                "id": "tool1",
+                "x": 425.0,
+                "y": 216.0
+            },
+            {
+                "class": "RightClasperPoint",
+                "id": "tool1",
+                "x": 421.0,
+                "y": 208.0
+            },
+            {
+                "class": "HeadPoint",
+                "id": "tool1",
+                "x": 530.0,
+                "y": 174.0
+            },
+            {
+                "class": "ShaftPoint",
+                "id": "tool1",
+                "x": 577.0,
+                "y": 196.0
+            },
+            {
+                "class": "TrackedPoint",
+                "id": "tool1",
+                "x": 632.0,
+                "y": 181.0
+            },
+            {
+                "class": "EndPoint",
+                "id": "tool1",
+                "x": 702.0,
+                "y": 151.0
+            }
+        ],
+        "class": "image",
+        "filename": "/Users/xiaofeidu/mData/MICCAI_tool/Tracking_Robotic_Testing/Dataset2/Raw/img_0375.png"
+    }
+]
