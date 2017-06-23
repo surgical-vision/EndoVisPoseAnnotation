@@ -17,6 +17,12 @@ For each instrument, five joints including *LeftClasperPoint*, *RightClasperPoin
 
 ![anno_sample](https://user-images.githubusercontent.com/6115717/27146913-e021bd60-5132-11e7-8c7a-4192bdeb8a5a.png)
 
+The tool numbering in the annotation files helps distinguish between the scissor and clasper instrument (illustrated in the first figure). It follows the order below:
+- Tool1: Right Clasper
+- Tool2: Left Clasper
+- Tool3: Right Scissor
+- Tool4: Left Scissor
+
 # CONTACT
 When referring to these annotations, please contact us.
 Citation details will be updated soon.
